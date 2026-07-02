@@ -44,6 +44,8 @@ Key transformations:
 - Create `transaction_time_bucket` to group transactions into 30-minute intervals
 - Group and aggregate by `product_type`, `product_category`, and `time_bucket`
 
+- https://github.com/Leratomatal/BRIGHT-LEARN-COFFEE-SALES
+
 ---
 
 ## Key Insights Delivered
