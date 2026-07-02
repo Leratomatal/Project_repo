@@ -179,7 +179,8 @@ CASE
 FROM project.kaffee.bright_coffee_shop_sales_2;
        
 
-
+SELECT *
+FROM project.kaffee.bright_coffee_shop_sales_2;
 
    
 
