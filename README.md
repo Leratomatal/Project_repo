@@ -29,6 +29,8 @@ This project follows an **ELT (Extract → Load → Transform)** pattern:
 | **Analyze** | Transformed results exported to Google Sheets for pivot tables and charts |
 | **Present** | Key insights and recommendations delivered via PowerPoint to the CEO |
 
+https://github.com/Leratomatal/BRIGHT-LEARN-COFFEE-SALES/blob/main/Project%20planning/mind%20map.pdf
+
 
 ---
 
